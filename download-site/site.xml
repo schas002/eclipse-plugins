@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Download site for schas002/eclipse-plugins" url="https://schas002.github.io/eclipse-plugins/download-site">
+      A download site for the GitHub repo schas002/eclipse-plugins.
+   </description>
+   <category-def name="uncategorised" label="Uncategorised"/>
+</site>
